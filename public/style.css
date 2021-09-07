@@ -74,6 +74,7 @@ nav {
   margin: 10% auto;
   font-size: 18px;
   font-weight: lighter;
+  line-height: 24px;
 }
 
 #introduction a {
@@ -173,7 +174,7 @@ nav {
 }
 
 #top p {
-  margin: 5%;
+  margin: 5% 5% 0 5%;
   font-size: 20px;
   font-weight: lighter;
 }
@@ -193,4 +194,40 @@ nav {
   margin: 0;
   padding: 0;
   list-style-type: none;
+}
+
+
+
+@media only screen and (max-width: 470px) {
+    
+    .branding {
+      font-size: 32px;
+    }
+
+    .navbar {
+      margin-top: 8%;
+    }
+
+    #introduction h1 {
+      font-size: 45px;
+    }
+    
+    #introduction p {
+      font-size: 16px;
+      line-height: 20px;
+    }
+      
+    .instrument {
+      width: 90%;
+      margin: 3% auto;
+    }
+
+    #top h2 {
+      font-size: 24px;
+    }
+
+    #top p {
+      font-size: 16px;
+    }
+
 }
