@@ -10,7 +10,7 @@
 
 ## Launch
 
-View the Musicon Project website here: marisabrantley.github.io/musicon/
+View the Musicon Project website here: https://marisabrantley.github.io/musicon/
 
 ## Class
 
